@@ -3,6 +3,7 @@
   "server_message": "servidor encontra-se em manutenção favor aguarde retorno",
   "server_principal": "https://viniciusdeveloper.xyz/vinstore/",
   "version": "1",
+  "sha1":"61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81",
   "necessary_update_version": "36",
   "login": "https://viniciusdeveloper.xyz/vinstore/user.php",
   "check_maintenance": "https://viniciusdeveloper.xyz/vinstore/main.php",
