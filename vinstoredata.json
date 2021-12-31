@@ -1,0 +1,14 @@
+{
+  "server_status": "true",
+  "server_message": "servidor encontra-se em manutenção favor aguarde retorno",
+  "server_principal": "https://viniciusdeveloper.xyz/vinstore/",
+  "version": "1",
+  "necessary_update_version": "36",
+  "login": "https://viniciusdeveloper.xyz/vinstore/user.php",
+  "check_maintenance": "https://viniciusdeveloper.xyz/vinstore/main.php",
+  "token_link": "https://viniciusdeveloper.xyz/vinstore/gentoken.php",
+  "update_link": "https://sketchub.in",
+  "payment_link": "https://www.paypal.me/rohitkumargd",
+  "java_link": "https://codehive.sketchub.in/api/",
+  "play_store_link": "https://play.google.com/store/apps/details?id=in.sketchub.app"
+}
